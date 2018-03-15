@@ -1,0 +1,13 @@
+{
+  "id": "googlemusic",
+  "name": "Google Music",
+  "version": "1.0.0",
+  "description": "Google Music",
+  "main": "index.js",
+  "author": "Lespilette Maxime",
+  "license": "MIT",
+  "repository": "git@github.com:LespiletteMaxime/meetfranz-recipe-google-music.git",
+  "config": {
+    "serviceURL": "https://play.google.com/music/listen"
+  }
+}
